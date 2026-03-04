@@ -6,7 +6,7 @@ export const education: Education[] = [
     titleIt: 'Laurea Triennale in Ingegneria Informatica',
     titleEn: 'Bachelor Degree in Computer Engineering',
     institution: 'Universita degli Studi di Napoli Federico II',
-    date: '—',
+    date: 'Marzo 2020 - 104/110',
     logoUrl: '/Logo-UNINA.jpg',
     pdfUrl: '/Pergamena Laurea Triennale Ingegneria In.pdf'
   },
