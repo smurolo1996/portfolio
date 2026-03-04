@@ -5,6 +5,8 @@ import { useLanguage } from '@/composables/useLanguage'
 
 const { t } = useLanguage()
 
+const baseUrl = import.meta.env.BASE_URL
+
 const currentRoleIndex = ref(0)
 const displayedText = ref('')
 const isTyping = ref(true)
@@ -74,7 +76,7 @@ onUnmounted(() => {
           {{ t.hero.tagline }}
         </p>
         <div class="hero-actions">
-          <BaseButton variant="primary" size="lg" href="/Salvatore-Murolo-CV.pdf" download>
+          <BaseButton variant="primary" size="lg" :href="`${baseUrl}Salvatore-Murolo-CV.pdf`" download>
             <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3" />
             </svg>
@@ -87,7 +89,7 @@ onUnmounted(() => {
       </div>
       <div class="hero-image">
         <div class="image-wrapper">
-          <img src="/fototessera Salvatore Murolo.png" alt="Salvatore Murolo" class="profile-photo" />
+          <img :src="`${baseUrl}fototessera Salvatore Murolo.png`" alt="Salvatore Murolo" class="profile-photo" />
         </div>
       </div>
     </div>

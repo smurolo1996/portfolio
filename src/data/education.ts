@@ -1,5 +1,7 @@
 import type { Education } from '@/types'
 
+const baseUrl = import.meta.env.BASE_URL
+
 export const education: Education[] = [
   {
     id: 'unina-bachelor',
@@ -7,8 +9,8 @@ export const education: Education[] = [
     titleEn: 'Bachelor Degree in Computer Engineering',
     institution: 'Universita degli Studi di Napoli Federico II',
     date: 'Marzo 2020 - 104/110',
-    logoUrl: '/Logo-UNINA.jpg',
-    pdfUrl: '/Pergamena Laurea Triennale Ingegneria In.pdf'
+    logoUrl: `${baseUrl}Logo-UNINA.jpg`,
+    pdfUrl: `${baseUrl}Pergamena Laurea Triennale Ingegneria In.pdf`
   },
   {
     id: 'fintechlab-2025',
@@ -16,9 +18,9 @@ export const education: Education[] = [
     titleEn: 'FinTech Lab 2025',
     institution: 'Universita degli Studi di Napoli Parthenope',
     date: '2025',
-    badgeImageUrl: '/assertion-BBvnqanXRHuGJ5cgAA3cAQ.png',
-    badgeDownloadUrl: '/assertion-BBvnqanXRHuGJ5cgAA3cAQ.png',
+    badgeImageUrl: `${baseUrl}assertion-BBvnqanXRHuGJ5cgAA3cAQ.png`,
+    badgeDownloadUrl: `${baseUrl}assertion-BBvnqanXRHuGJ5cgAA3cAQ.png`,
     badgeExternalUrl: 'https://bestr.it/award/show/BBvnqanXRHuGJ5cgAA3cAQ',
-    pdfUrl: '/AttestatoMurolo_v01.pdf'
+    pdfUrl: `${baseUrl}AttestatoMurolo_v01.pdf`
   }
 ]
