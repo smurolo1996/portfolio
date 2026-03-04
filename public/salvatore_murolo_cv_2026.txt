@@ -1,0 +1,170 @@
+                               Profilo Professionale
+                               Software Engineer Full-Stack con oltre sei anni di esperienza presso Minsait (gruppo Indra), specializzato nello sviluppo di applicazioni
+                               web scalabili, resilienti e ad alte prestazioni in contesti Enterprise. Possiedo solide competenze nelle principali tecnologie Frontend —
+                               Angular, Vue 3 e React — e nel Backend con Spring Boot, con esperienza consolidata nella progettazione di architetture moderne e
+                               nell’implementazione di soluzioni end-to-end.
+                               Nel corso della mia carriera, ho contribuito a progetti complessi in diversi domini, tra cui energia (Terna, Enel), trasporti (ADR), sanità (ASL)
+                               e Pubblica Amministrazione, occupandomi dello sviluppo completo delle piattaforme software: dalla definizione dei requisiti, alla loro
+                               implementazione fino al rilascio in produzione. Ho progettato infrastrutture basate su Docker e Kubernetes (CKAD) e realizzato pipeline
+                               CI/CD per garantire automazione, affidabilità e rapidità nei rilasci.
+                               Ho maturato esperienza nell’integrazione di sistemi di autenticazione SSO, nella progettazione di API REST e WebSocket e nello sviluppo
+     SALVATORE                 di soluzioni real-time integrate con sistemi SCADA, contribuendo a migliorare performance e interoperabilità dei sistemi.
+      MUROLO                   Nel ruolo di team leader ho facilitato cerimonie Agile — daily scrum, refinement e planning — favorendo una comunicazione efficace tra
+                               stakeholder e team tecnici e supportando il raggiungimento degli obiettivi progettuali. Parallelamente, mi dedico al mentoring di
+   Full Stack Developer        sviluppatori junior, accompagnandoli nella crescita tecnica e nella diffusione delle best practice.
+    Software Architect         Completo il profilo con competenze di analisi funzionale, attenzione all’accessibilità e alla user experience, e un forte orientamento alla
+         Tech Lead             qualità del codice, alla manutenibilità e al miglioramento continuo.
+       Team Leader
+
+CONTATTI & INFO
+                               ESPERIENZE PROFESSIONALI
+
+    sal.murolo@outlook.it          Terna SpA | Gen 2023 – Presente
+   Grumo Nevano (NA) - 80028
+   20 maggio 1996               ● Portale RDT — Regolazione di tensione con mappe real-time e grafici interattivi — (2024 – Presente)
+   Maschio                                 Sistema: Sistema di regolazione e monitoraggio della tensione di centrali elettriche con integrazione su mappa
+                                           Attività: Ho progettato i mockup, sviluppato il frontend con Vue 3 e integrato API REST/WS per visualizzare dati di tensione su mappe e
+LINGUE                                     grafici interattivi real-time
+                                ● Portale Diagnos ca — SCADA real-time per monitoraggio dispositivi — (2024 – Presente)
+Italiano — Madrelingua
+                                           Sistema: Sistema SCADA che consente il monitoraggio e la gestione in real-time di tutti i dispositivi connessi alla rete con avvisi su
+Inglese — B2/C1                            anomalie.
+                                           Attività: Ho sviluppato il Frontend in Vue 3 e creato API REST e SSE per visualizzare diagrammi elettrici interattivi generati
+FRONTEND                                   dinamicamente da dati JSON.
+Angular • Expert                ● Portale PSE — Configurazione dispositivi tramite protocolli di rete industriali — (2023 – Presente)
+                                           Sistema: Portale dedicato alla configurazione di dispositivi elettronici seguendo vari protocolli di rete predefiniti
+Vue 3 • Expert
+                                           Attività: Sviluppo del Frontend in Vue 3, integrazione SSO con Keycloak, gestione profili utente, log eventi, visualizzazione audit e
+React • Avanzato                           implementazione upload dispositivi da file
+HTML 5 Expert                   ● Libreria UI Terna — Design system npm per uniformare i portali Terna — (2023 – Presente)
+CSS 3 • Expert                             Sistema: Creazione di una libreria UI distribuita via npm per uniformare l’interfaccia grafica dei vari portali aziendali.
+JavaScript / TS • Expert                   Attività: Ho creato componenti grafici responsive e accessibili in Vue 3, basati su design Figma, garantendo la conformità agli standard
+                                           di accessibilità
+Responsive Layout • Expert
+WCAG • Expert                   Stack: Vue 3, Spring Boot, RabbitMQ, MySQL, InfluxDB, Leaflet, PostGIS, Keycloak, MongoDB, Kong, NATS, SSE, Figma
+jQuery • Expert
+
+BACKEND                            Enel | Gen 2024 – Dic 2024
+Spring Boot • Expert
+                                ● Portale QED Es mator — Configurazione remota dispositivi elettronici analogici e digitali
+Hibernate / JPA • Expert                   Sistema: Piattaforma che consente la configurazione remota di dispositivi elettronici analogici e digitali.
+Swagger • Expert                           Attività: Ho creato i mockup con Figma, sviluppato un kit UI custom per Vue 3 e implementato il frontend integrandolo con i servizi
+REST • Expert                              backend esistenti.
+Websocket • Expert
+Java SE 11 • Expert             Stack: Vue 3, Docker, Kubernetes, Go, Figma
+Node.js • Avanzato
+Python • Intermedio                Onesait Edge — Indra (interno) | Gen 2026 – Presente
+DATABASE
+                                ● Onesait Edge Local — Portale per configurazione protocolli industriali (104, VPLC, 61850)
+PostgreSQL • Avanzato                      Sistema: Portale Edge per la configurazione di protocolli di rete industriali (come 104, VPLC, 61850) e dispositivi su piattaforma Onesait.
+MySQL • Avanzato                           Attività: Implementazione completa del protocollo VPLC (mapping e configurazione) e automazione dei test end-to-end con Cucumber
+                                           (con gherkin syntax) e Cypress.
+MongoDB • Avanzato
+Elasticsearch • Intermedio      Stack: Vue 3, Vite, Pinia, Cucumber, Cypress, ODS Plus
+TESTING
+Cypress • Avanzato
+                                  ADR Aeroporti di Roma | Gen 2020 – Dicembre 2024
+Cucumber • Avanzato
+                                ● Taxi Fly ADR — Gestione turni taxi, dispositivi IoT e report aeroportuali — (2021 – 2024)
+Gherkin syntax • Avanzato                  Sistema: Portale backoffice che consente agli operatori degli aeroporti di Fiumicino e Ciampino di gestire i turni taxi, i dispositivi IoT e i
+                                           report di sistema
+DEVOPS & ARCHITETTURA                      Attività: Sviluppo del frontend in Angular, integrazione backend e WebSocket real-time, realizzazione del sistema multitenant e attività
+Docker • Expert                            di reperibilità h24 7/7 a turnazione
+Kubernetes (CKAD) • Expert      ● Titan Taxi ADR — Sistema legacy predecessore di Taxi Fly — (2020 – 2022)
+                                           Sistema: Sistema di gestione turni taxi, dispositivi IoT in aeroporto (es. sbarre) e reportistica.
+Keycloak / SSO • Expert                    Attività: Ho fornito supporto in reperibilità per risolvere malfunzionamenti tecnici e garantire la continuità del servizio aeroportuale
+Microservices • Avanzato
+CI-CD Pipelines • Intermedio    Stack: Angular, Spring Boot, Websphere, ADFS, Stomp WebSocket, Oracle DB, AngularJS, JSP
+CLOUD & STRUMENTI
+                                  Areti SpA — Gruppo ACEA | Gen 2021 – Dic 2025
+Figma • Avanzato
+                                ● Portale Areti ACEA — Visualizzazione pali elettrici su mappa Google Maps con multimedia
+Git • Avanzato                             Sistema: Portale per visualizzare su Google Maps i pali elettrici e i relativi contenuti multimediali come foto di guasti o segnalazioni.
+Jenkins • Avanzato                         Attività: Progettazione wireframe con Figma, sviluppo del frontend e integrazione backend per il monitoraggio mappe e le nuove sezioni
+RabbitMQ • Intermedio                      giunti e cantieri.
+Kafka • Intermedio              ● Portale Sinistri ACEA ATO2 — Gestione sinistri assicurativi
+                                           Sistema: Portale dedicato alla gestione e alla lavorazione dei sinistri assicurativi.
+                                           Attività: Mi sono occupato della progettazione dei wireframe con Figma, dello sviluppo del frontend e dell'integrazione con i servizi
+CERTIFICAZIONI                             backend
+Oracle Java SE 11 (1Z0-819)
+                               Stack: Angular, Spring Boot, PostgreSQL, PostGIS, Google Maps API
+Feb 2024
+
+
+CKAD — Linux Foundation
+                                  ANPAL — Agenzia Naz. Politiche Attive del Lavoro | Mar 2020 – Dic 2023
+Mar 2025
+                               ● DID & MIAM — Disponibilita' al lavoro e verifica ammissibilita' incentivi assunzione
+                                           Sistema: Sistemi digitali per la gestione della disponibilità al lavoro (DID) e per la verifica dell'ammissibilità agli incentivi all’assunzione
+                                           (MIAM)
+                                           Attività: Gestione ticket di produzione, risoluzione problemi tecnici e partecipazione a change request per l’integrazione con il portale
+                                           GOL e la profilazione centralizzata.
+                               ● SIU Formazione — Iscrizione cittadini a corsi di formazione, gestione utenti CPI
+                                           Sistema: Portale che consente ai cittadini di iscriversi a corsi di formazione e agli utenti CPI di gestirli.
+                                           Attività: Sviluppo di un frontend dinamico basato su jsonschema con un pannello amministrativo per la configurazione delle entità
+                                           formative.
+
+                               Stack: Angular, AngularJS, Spring Boot, PostgreSQL, Docker, Kubernetes, Kibana
+
+
+                                  ASL Napoli 3 Sud | Gen 2025 – Presente
+
+                               ● Portale SiGeA — Backoffice gestione fabbisogni, acquisti e anagrafiche verso MIT
+                                           Sistema: Sistema di backoffice per la gestione dei piani di fabbisogni, richieste di acquisto e anagrafiche verso il MIT.
+                                           Attività: Sviluppo del nuovo portale in Angular 19 con Bootstrap Italia, integrazione API SAP e gestione del Single Sign-On su SAP BTP.
+                               ● FESPA — Gestione fascicoli strutture sanitarie private accreditate
+                                           Sistema: Portale per la gestione dei fascicoli delle strutture sanitarie private accreditate e centralizzazione dei dati
+                                           Attività: Ho sviluppato nuove pagine web e gestito le change request relative al frontend del portale.
+
+                               Stack: Angular 19, Bootstrap Italia, SAP BE, SSO SAP BTP
+
+
+                                  Pubblica Amministrazione — Vari Clienti | Gen 2021 – Dic 2024
+
+                               ● Regione Abruzzo — Portale formazione regionale per iscrizione corsi e gestione CPI
+                                           Sistema: Portale per l'iscrizione dei cittadini ai corsi di formazione e la gestione delle attività da parte degli utenti dei Centri per l'Impiego.
+                                           Attività: Progettazione e sviluppo del frontend da zero, integrazione backend, configurazione pipeline CI/CD su Azure e implementazione
+                                           SSO con Keycloak e ADFS
+                               ● PoteSS (Comune di Napoli) — Open Data Governativi
+                                           Sistema: Piattaforma basata su CKAN per la raccolta, pubblicazione e condivisione di open data governativi.
+                                           Attività: Configurazione e personalizzazione dei plugin CKAN per garantire la conformità agli standard AGID e sviluppo delle interfacce
+                               ● Toponomastica (Comune di Napoli) — Stradario e numeri civici
+                                           Sistema: Portale per la consultazione e la modifica della toponomastica cittadina e dei dati geografici dello stradario.
+                                           Attività: Redesign grafico del portale, personalizzazione delle funzionalità e implementazione di layout responsive per desktop e mobile
+                               ● Ministero della Giustizia — Riconoscimento titoli accademici e professionali
+                                           Sistema: Portale che consente ai cittadini di richiedere il riconoscimento di titoli accademici e professionali.
+                                           Attività: Mi sono occupato della realizzazione del frontend e dell'integrazione con i servizi di backend.
+                               ● Natura 2000 — Valutazione di incidenza ambientale siti Natura 2000
+                                           Sistema: Portale per l'automazione delle procedure di valutazione di incidenza ambientale (VIncA) per i siti Natura 2000
+                                           Attività: Sviluppo del frontend e integrazione dei microservizi di backend.
+                               ● NoiPA — 7 SPA per gestione e visualizzazione cedolini personale PA
+                                           Sistema: Insieme di Single Page Application (SPA) per la gestione e la visualizzazione dei cedolini del personale della Pubblica
+                                           Amministrazione
+                                           Attività: Sviluppo del frontend e integrazione backend per 7 diverse SPA basate su jsonschema dinamico.
+
+                               Stack: Angular, Spring Boot, PostgreSQL, Azure DevOps, Keycloak, ADFS, CKAN, Python, Oracle DB
+
+
+                                  BNL — Gruppo BNP Paribas | Mar 2020 – Dic 2020
+
+                               ● Eircorporate BNL — Digitalizzazione e automazione processi bancari aziendali
+                                           Sistema: Piattaforma bancaria dedicata alla gestione automatizzata e alla digitalizzazione dei flussi finanziari per i clienti corporate.
+                                           Attività: Sviluppo del backend e gestione del database tramite creazione di viste, trigger e procedure batch.
+
+                               Stack: Oracle DB, Java JRF 4.0, Jenkins, SonarQube
+
+                              FORMAZIONE
+                                  Laurea Triennale in Ingegneria Informatica Univ. Federico II, Napoli — 2020 — Punteggio 104/110
+                                  FinTech Lab 2025 (156h) Univ. Parthenope, Napoli — 2025
+
+                              CERTIFICAZIONI
+                                  Oracle Certified — Java SE 11 Developer (1Z0-819) Oracle — Feb 2024
+                                  Certified Kubernetes Application Developer (CKAD) Linux Foundation — Mar 2025
+
+                              FORMAZIONE CONTINUA
+                                  Angular Esperto (40h, 2024)       React (40h, 2023/24)      CKAD Docker+K8s (40h, 2025) 📚 WAE Web Accessibility Expert (40h, 2025)
+
+
+
+                              Autorizzo il trattamento dei miei dati personali ai sensi del D.lgs. 196/2003 e del Regolamento UE 2016/679 (GDPR) per le finalità di selezione del personale.
+

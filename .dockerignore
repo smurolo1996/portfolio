@@ -1,0 +1,80 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build outputs (verranno rigenerati nel container)
+dist
+dist-ssr
+build
+.output
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.travis.yml
+azure-pipelines.yml
+
+# IDE e Editor
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+CHANGELOG.md
+LICENSE
+docs/
+
+# Test files
+tests/
+test/
+**/*.test.ts
+**/*.test.js
+**/*.spec.ts
+**/*.spec.js
+coverage/
+.nyc_output/
+
+# Environment files - IMPORTANTE: escludere file sensibili
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# Project specific - Exclude rules folder
+rules/
+
+# Docker files (non necessari dentro il container)
+Dockerfile
+.dockerignore
+docker-compose.yml
+docker-compose.*.yml
+
+# Cache e temporary files
+.cache
+*.log
+*.tmp
+*.temp
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+
+# Misc
+*.md
+!package*.json
+.editorconfig
+.prettierrc
+.prettierignore

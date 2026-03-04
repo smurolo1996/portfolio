@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "Chi Sono",
+    "skills": "Competenze",
+    "experience": "Esperienze",
+    "projects": "Progetti",
+    "education": "Formazione",
+    "certifications": "Certificazioni",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "greeting": "Ciao, sono",
+    "tagline": "Trasformo idee complesse in architetture software eleganti, performanti e scalabili — dal design all'esecuzione",
+    "downloadCv": "Scarica CV",
+    "contactMe": "Contattami",
+    "roles": ["Full Stack Developer", "Software Architect", "Tech Lead", "Team Leader"]
+  },
+  "about": {
+    "title": "Chi Sono",
+    "description": "Software Engineer Full-Stack con oltre sei anni di esperienza presso Minsait (gruppo Indra), specializzato nello sviluppo di applicazioni web scalabili, resilienti e ad alte prestazioni in contesti Enterprise. Possiedo solide competenze nelle principali tecnologie Frontend (Angular, Vue 3, React) e nel Backend con Spring Boot, con esperienza consolidata nella progettazione di architetture moderne e nell'implementazione di soluzioni end-to-end.",
+    "stats": {
+      "years": "Anni di Esperienza",
+      "projects": "Progetti Enterprise",
+      "certifications": "Certificazioni",
+      "clients": "Clienti Enterprise"
+    }
+  },
+  "skills": {
+    "title": "Competenze",
+    "levels": {
+      "expert": "Expert",
+      "advanced": "Avanzato",
+      "intermediate": "Intermedio"
+    }
+  },
+  "experience": {
+    "title": "Esperienze",
+    "present": "Presente",
+    "activities": "Attività:"
+  },
+  "projects": {
+    "title": "Progetti",
+    "viewDetails": "Dettagli",
+    "scrollHint": "Scorri per vedere di più"
+  },
+  "certifications": {
+    "title": "Certificazioni",
+    "downloadBadge": "Scarica badge",
+    "downloadCertificate": "Scarica certificato",
+    "viewBadge": "Vedi badge"
+  },
+  "education": {
+    "title": "Formazione",
+    "downloadBadge": "Scarica badge",
+    "viewBadge": "Vedi badge",
+    "downloadDocument": "Scarica documento"
+  },
+  "contact": {
+    "title": "Contattami",
+    "subtitle": "Sono sempre aperto a nuove opportunità e collaborazioni",
+    "email": "Email",
+    "location": "Posizione",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Il tuo nome",
+      "email": "Email",
+      "emailPlaceholder": "La tua email",
+      "subject": "Oggetto",
+      "subjectPlaceholder": "Oggetto del messaggio",
+      "message": "Messaggio",
+      "messagePlaceholder": "Il tuo messaggio...",
+      "send": "Invia Messaggio",
+      "sending": "Apertura client email...",
+      "success": "Il tuo client email è stato aperto. Completa l'invio da lì!",
+      "error": "Errore nell'apertura del client email. Contattami direttamente."
+    }
+  }
+}
